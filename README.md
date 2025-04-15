@@ -3,7 +3,7 @@
 🎯 Développeur **Fullstack JavaScript** passionné avec **6 ans d'expérience**  
 📍 Basé à Sartrouville (France)  
 📧 sfaxi.abdelkarim@gmail.com | 📱 +33 6 20 07 86 39  
-🔗 [LinkedIn](https://linkedin.com/in/abdelkarim-sfaxi) • [GitHub](https://github.com/abdelkarimsfaxigithub)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelkarim-sfaxi-27a857115) • [GitHub](https://github.com/abdelkarimsfaxigithub)
 
 ---
 
@@ -94,5 +94,5 @@ Je suis curieux, autonome, orienté solution, et j’aime résoudre des problèm
 
 ---
 
-🧠 *Merci pour votre visite ! N'hésitez pas à me contacter ou à jeter un œil à mes projets !*
+🧠 *Merci pour votre visite !*
 
